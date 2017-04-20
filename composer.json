@@ -21,9 +21,6 @@
     },
     "require-dev": {
     },
-    "bin": [
-        "composer/bin/phpunit"
-    ],
     "autoload": {
         "classmap": [
             "PHPUnit/"
